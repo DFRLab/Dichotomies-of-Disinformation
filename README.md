@@ -7,7 +7,7 @@
 	<br>
 	<i>Digital Forensic Research Lab, Atlantic Council</i>
 	<br>
-	<i>With the support of the entire <a href=https://www.digitalsherlocks.org/about>DFRLab staff</a>, and their years of extensive reporting on disinformation.</i>
+	<i>With the support of the entire <a href=https://www.digitalsherlocks.org/about>DFRLab staff</a> and their years of extensive reporting on disinformation.</i>
 	<br>
 	<br>
 	<b><i>Rocky Taylor Cole & Andrew Gully</i></b>
