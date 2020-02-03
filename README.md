@@ -1,7 +1,8 @@
 # Dichotomies of Disinformation: <br> Project Overview & Codebook <br> (Beta)
-
 <p align="center">
-	<br>
+  <a href="https://medium.com/dfrlab"><img src="https://github.com/DFRLab/Dichotomies-of-Disinformation/blob/master/Banner-01.png?raw=true"></img></a>
+</p>
+<p align="center">
 	<b><i>Emerson T. Brooking, Alyssa Kann, & Max Rizzuto</i></b>
 	<br>
 	<i>Digital Forensic Research Lab, Atlantic Council</i>
@@ -10,16 +11,19 @@
 	<b><i>Rocky Taylor Cole & Andrew Gully</i></b>
 	<br>
 	<i>Jigsaw</i>
+	<br><br>
+	With the support of the entire <a href=https://www.digitalsherlocks.org/about>DFRLab staff</a>, over three years of extensive reporting and establishing definitions
 	</p>
+	<br>
  <p align="center">
-  <b><a href="">Visualization</a> | <a href="#introduction">Project Overview</a> | <a href="#appendix-a-codebook">Codebook</a> | <a href="#dataset">Dataset</a> </b>
+  <b><a href="https://jigsaw.google.com/the-current/disinformation/dataviz/">Visualization</a> | <a href="#introduction">Project Overview</a> | <a href="#appendix-a-codebook">Codebook</a> | <a href="#dataset">Dataset</a> </b>
 </p>
 
 ### Summary
 Through the use of viral falsehood and digital manipulation, determined actors can destabilize civil institutions, affect social polarization, or disrupt rival militaries. As social media has proliferated, so has the use of these new stratagems. We isolate and define this phenomenon, which we describe as “political disinformation campaigns.” We also propose and test a classification system built on 150 variable options. Our intent is to establish a replicable, extensible system by which widely disparate disinformation campaigns can be categorized and compared. 
 
 ### Introduction
-Through the deliberate seeding and manipulation of viral falsehood, a determined actor can destabilize civil institutions, affect social polarization and inflame ethnic and religious tensions, disrupt or demoralize rival militaries, sabotage foreign economies, or simply abuse the nature of digital advertising for personal financial gain. This phenomenon is broadly known as “digital disinformation” (hereafter referred to as “disinformation.”) Today, at least 70 national governments or national-level political parties have invested in such information manipulation capabilities (Bradshaw & Howard 2019), as have innumerable individuals and business interests.
+Through the deliberate seeding and manipulation of viral falsehood, a determined actor can destabilize civil institutions, affect social polarization and inflame ethnic and religious tensions, disrupt or demoralize rival militaries, sabotage foreign economies, or simply abuse the nature of digital advertising for personal financial gain. This phenomenon is broadly known as “digital disinformation” (hereafter referred to as “disinformation”). Today, at least 70 national governments or national-level political parties have invested in such information manipulation capabilities (Bradshaw & Howard 2019), as have innumerable individuals and business interests.
 
 As the potency and prominence of disinformation has grown, several frameworks have been proposed to contextualize and understand it. These frameworks have been designed with different ends in mind. Wardle & Derakhshan (2017) take the most expansive view, identifying disinformation as just one contributor, alongside mis- and mal-information, to a state of “information disorder.”
 
@@ -32,7 +36,7 @@ Even amid this abundance of studies and frameworks, however, critical gaps remai
 We have created and applied a new framework for disinformation classification. This framework is intended to be replicable and extensible, able to describe and compare widely disparate campaigns. This short paper proceeds in three parts: a presentation of definitions, an explanation of case selection and methodology, and a discussion of initial project observations and areas for further research. The project codebook itself is contained in Appendix A. 
 
 ### Definition
-We define <i>disinformation</i> as “false or misleading information, spread with the intention to deceive.” This definition captures both falsehood and deception by means of decontextualization. This definition also emphasizes intentionality. Contrary to some competing definitions, we make no claims with relation to the purpose of the disinformation.
+We define <i>disinformation</i> as “false or misleading information, spread with the intention to deceive” (Nimmo 2018). This definition captures both falsehood and deception by means of decontextualization. This definition also emphasizes intentionality. Contrary to some competing definitions, we make no claims with relation to the purpose of the disinformation.
 
 We define <i>political disinformation</i> as “disinformation with a political or politically adjacent end.” This definition captures disinformation spread in the course of an election, protest, or military operation. It also captures the widespread phenomenon of political “clickbait” disseminated for personal financial gain.
 
@@ -512,6 +516,8 @@ Gleicher, Nathaniel, “Coordinated Inauthentic Behavior Explained,” Facebook,
 Keller, Franziska B., David Schoch, Sebastian Stier, and JungHwan Yang. "Political Astroturfing on Twitter: How to Coordinate a Disinformation Campaign." Political Communication (2019): 1-25.
 
 Martin, Diego A., and Jacob N. Shapiro. "Trends in Online Foreign Influence Efforts." (2019).
+
+Nimmo, Ben, and Graham Brookie. "Fake News: Defining and Defeating," DFRLab, January 19, 2018.
 
 Pamment, James, Howard Nothhaft, and Alicia Fjällhed. "Countering Information Influence Activities: A Handbook for Communicators." (2018).
 
