@@ -297,7 +297,7 @@ The indentation may be a bit off, but now the hierarchy is: I, 1, A, a, i. This 
     <li type="1"><h4> Advertisement (binary). <i>Advertisements purchased by disinformants to disseminate a message of disinformation. Includes ads on social media and the open web.</i></h4></li>
     <li type="1"><h4> Email (binary)</h4></li>
     <li type="1"><h4> Other (free text)</h4></li>
-    <li type="1"><h4> Notes (free text). Add more detailed information on social media platforms used (retweets, groups, etc), if applicable. Add specific numbers of social media metrics, if applicable.</h4></li>
+    <li type="1"><h4> Notes (free text). <i>Add more detailed information on social media platforms used (retweets, groups, etc), if applicable. Add specific numbers of social media metrics, if applicable.</i></h4></li>
   </ol>
 <li type="I"><a name="content"><h2> Content</h2></li>
   <ol>
