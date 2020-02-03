@@ -1,6 +1,6 @@
 # Dichotomies of Disinformation: <br> Project Overview & Codebook <br> (Beta)
 <p align="center">
-  <a href="https://medium.com/dfrlab"><img src="https://github.com/DFRLab/Dichotomies-of-Disinformation/blob/master/Banner-01.png?raw=true"></img></a>
+  <img src="https://github.com/DFRLab/Dichotomies-of-Disinformation/blob/master/Banner-01.png?raw=true"></img>
 </p>
 <p align="center">
 	<b><i>Emerson T. Brooking, Alyssa Kann, & Max Rizzuto</i></b>
