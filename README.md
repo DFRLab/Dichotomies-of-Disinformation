@@ -53,7 +53,7 @@ Following case selection, we built a system of classification. This framework wa
 Ultimately, we created a system with 76 binary variables, 35 text descriptors, and 40 quantitative variables. This system classifies political disinformation campaigns through six categories: Target, Platforms, Content, Methods, Attribution, and Intent. This order reflects the process by which the DFRLab identifies and evaluates suspected campaigns.
 
 + [Target](#target) describes the national or supranational characteristics of the target, to include its political or social strata.
-+ [Platform](#platform) describes the medium through which the disinformation is conveyed, to include open web, social media, and messaging services.
++ [Platform](#platforms) describes the medium through which the disinformation is conveyed, to include open web, social media, and messaging services.
 + [Content](#content) describes the language and topic of the disinformation.
 + [Methods](#methods) describes the tactics and narrative techniques that are used to disseminate the disinformation.
 + [Attribution](#attribution) describes the national or supranational characteristics of the disinformant, to include its political or social strata, as well as the confidence of the attribution.
@@ -98,7 +98,7 @@ ___
 
 
 <p align="center">
-  <b><a href="#meta">Meta</a> | <a href="#target">Target</a> | <a href="#platforms">Platform</a> | <a href="#content">Content</a> | <a href="#attribution">Attribution</a> | <a href="#intent">Intent</a> </b>
+  <b><a href="#meta">Meta</a> | <a href="#target">Target</a> | <a href="#platforms">Platform</a> | <a href="#content">Content</a> | <a href="#methods">Methods</a> | <a href="#attribution">Attribution</a> | <a href="#intent">Intent</a> </b>
 </p>
 
 #### Taxonomy and Definitions
@@ -319,7 +319,7 @@ The indentation may be a bit off, but now the hierarchy is: I, 1, A, a, i. This 
     </ol>
     <li type="1"><h4> Notes (free text)</h4></li>
   </ol>
-<li type="I"><a name="method"><h2> Methods</h2></li>
+<li type="I"><a name="methods"><h2> Methods</h2></li>
   <ol>
     <li type="1"><h4> Tactics</h4></li>
     <ol>
