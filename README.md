@@ -8,17 +8,17 @@
 	<i>Digital Forensic Research Lab, Atlantic Council</i>
 	<br>
 	<i>With the support of the entire <a href=https://www.digitalsherlocks.org/about>DFRLab staff</a> and their years of extensive reporting on disinformation.</i>
+<a href="https://medium.com/dfrlab"><img src="https://github.com/DFRLab/Dichotomies-of-Disinformation/blob/master/dfrlabLogo.png?raw=true" width="140"></img></a>
 	<br>
 	<br>
+</p>
+<p align="center">
 	<b><i>Rocky Taylor Cole & Andrew Gully</i></b>
 	<br>
 	<i>Jigsaw</i>
 	<br><br>
-	</p>
+</p>
 	<br>
-	<p align="center">
-  	<a href="https://medium.com/dfrlab"><img src="https://github.com/DFRLab/Dichotomies-of-Disinformation/blob/master/dfrlabLogo.png?raw=true" width="140"></img></a>
-	</p>
 	<br>
  <p align="center">
   <b><a href="https://jigsaw.google.com/the-current/disinformation/dataviz/">Visualization</a> | <a href="#introduction">Project Overview</a> | <a href="#appendix-a-codebook">Codebook</a> | <a href="#dataset">Dataset</a> </b>
