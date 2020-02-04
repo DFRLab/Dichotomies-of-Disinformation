@@ -8,6 +8,7 @@
 	<i>Digital Forensic Research Lab, Atlantic Council</i>
 	<br>
 	<i>With the support of the entire <a href=https://www.digitalsherlocks.org/about>DFRLab staff</a> and their years of extensive reporting on disinformation.</i>
+	<br>
 <a href="https://medium.com/dfrlab"><img src="https://github.com/DFRLab/Dichotomies-of-Disinformation/blob/master/dfrlabLogo.png?raw=true" width="140"></img></a>
 	<br>
 	<br>
