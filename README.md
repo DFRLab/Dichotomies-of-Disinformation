@@ -246,7 +246,7 @@ The indentation may be a bit off, but now the hierarchy is: I, 1, A, a, i. This 
   <li type="1"><h4> Concurrent Events</h4></li>  
     <ol>
       <li type="A">Inter-state war (binary). <i>Threshold is 1,000 conflict deaths. Use <a href="http://www.correlatesofwar.org/data-sets/COW-war/the-cow-typology-of-war-defining-and-categorizing-wars/at_download/file">COW</a> data for 2007 and before. 2008 and after, supplement with research.</i></li>
-      <li type="A">Extra-state war (binary). <i>Threshold is 1,000 conflict deaths.Use <a href="http://www.correlatesofwar.org/data-sets/COW-war/the-cow-typology-of-war-defining-and-categorizing-wars/at_download/file">COW</a> data. For data after 2007, see below, Appendix I: Extra-state war.</i></li>
+      <li type="A">Extra-state war (binary). <i>Threshold is 1,000 conflict deaths.Use <a href="http://www.correlatesofwar.org/data-sets/COW-war/the-cow-typology-of-war-defining-and-categorizing-wars/at_download/file">COW</a> data.</i></li>
       <li type="A">Intra-state wars (binary). <i>Threshold is 1,000 conflict deaths. Use <a href="http://www.correlatesofwar.org/data-sets/COW-war/the-cow-typology-of-war-defining-and-categorizing-wars/at_download/file">COW</a> data for 2007 and before. 2008 and after, supplement with research.</i></li>
       <li type="A">Non-state war (binary). <i>War in non-state territory or across state borders. Threshold is 1,000 conflict deaths. Use <a href="http://www.correlatesofwar.org/data-sets/COW-war/the-cow-typology-of-war-defining-and-categorizing-wars/at_download/file">COW</a> data for 2007 and before. 2008 and after, supplement with research.</i></li>
       <li type="A">Federal Election (binary).</li>
@@ -455,7 +455,7 @@ The indentation may be a bit off, but now the hierarchy is: I, 1, A, a, i. This 
   <li type="1"><h4> Concurrent Events</h4></li>  
     <ol>
       <li type="A">Inter-state war (binary). <i>Threshold is 1,000 conflict deaths. Use <a href="http://www.correlatesofwar.org/data-sets/COW-war/the-cow-typology-of-war-defining-and-categorizing-wars/at_download/file">COW</a> data for 2007 and before. 2008 and after, supplement with research.</i></li>
-      <li type="A">Extra-state war (binary). <i>Threshold is 1,000 conflict deaths.Use <a href="http://www.correlatesofwar.org/data-sets/COW-war/the-cow-typology-of-war-defining-and-categorizing-wars/at_download/file">COW</a> data. For data after 2007, see below, Appendix I: Extra-state war.</i></li>
+      <li type="A">Extra-state war (binary). <i>Threshold is 1,000 conflict deaths.Use <a href="http://www.correlatesofwar.org/data-sets/COW-war/the-cow-typology-of-war-defining-and-categorizing-wars/at_download/file">COW</a> data.</i></li>
       <li type="A">Intra-state wars (binary). <i>Threshold is 1,000 conflict deaths. Use <a href="http://www.correlatesofwar.org/data-sets/COW-war/the-cow-typology-of-war-defining-and-categorizing-wars/at_download/file">COW</a> data for 2007 and before. 2008 and after, supplement with research.</i></li>
       <li type="A">Non-state war (binary). <i>War in non-state territory or across state borders. Threshold is 1,000 conflict deaths. Use <a href="http://www.correlatesofwar.org/data-sets/COW-war/the-cow-typology-of-war-defining-and-categorizing-wars/at_download/file">COW</a> data for 2007 and before. 2008 and after, supplement with research.</i></li>
       <li type="A">Federal Election (binary). <i>National level election. Supra-national bodies are included.</i></li>
