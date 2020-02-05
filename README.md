@@ -1,6 +1,6 @@
 # Dichotomies of Disinformation: <br> Project Overview & Codebook <br> (Beta)
 <p align="center">
-  <img src="https://github.com/DFRLab/Dichotomies-of-Disinformation/blob/master/Banner-01.png?raw=true"></img>
+  <img src="https://i.imgur.com/wL5n7Ok.png"></img>
 </p>
 <p align="center">
 	<b><i>Emerson T. Brooking, Alyssa Kann, & Max Rizzuto</i></b>
@@ -8,8 +8,6 @@
 	<i>Digital Forensic Research Lab, Atlantic Council</i>
 	<br>
 <i>With the support of the entire <a href=https://www.digitalsherlocks.org/about>DFRLab staff</a> and their years of extensive reporting on disinformation.</i>
-	<br>
-<a href="https://medium.com/dfrlab"><img src="https://github.com/DFRLab/Dichotomies-of-Disinformation/blob/master/dfrlabLogo.png?raw=true" width="135"></img></a>
 	<br>
 	<br>
 </p>
@@ -528,5 +526,12 @@ Nimmo, Ben, and Graham Brookie. "Fake News: Defining and Defeating," DFRLab, Jan
 Pamment, James, Howard Nothhaft, and Alicia Fjällhed. "Countering Information Influence Activities: A Handbook for Communicators." (2018).
 
 Wardle, Claire, and Hossein Derakhshan. "Information Disorder: Toward an interdisciplinary framework for research and policy making." Council of Europe Report 27 (2017).
+
+<br>
+<br>
+<p align="center">
+	<a href="https://medium.com/dfrlab"><img src="https://i.imgur.com/ZOdGu2b.png" width="135"></img></a>&nbsp;&nbsp;&nbsp;
+	<a href=""><img src="https://i.imgur.com/VTXto66.png" width="300"></img></a>
+</p>
 
 
