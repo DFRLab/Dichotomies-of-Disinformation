@@ -531,7 +531,7 @@ Wardle, Claire, and Hossein Derakhshan. "Information Disorder: Toward an interdi
 <br>
 <p align="center">
 	<a href="https://medium.com/dfrlab"><img src="https://i.imgur.com/ZOdGu2b.png" width="135"></img></a>&nbsp;&nbsp;&nbsp;
-	<a href=""><img src="https://i.imgur.com/VTXto66.png" width="300"></img></a>
+	<a href="https://www.atlanticcouncil.org/"><img src="https://i.imgur.com/VTXto66.png" width="300"></img></a>
 </p>
 
 
